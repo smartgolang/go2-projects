@@ -17,6 +17,7 @@ git add .
 
 echo $VER
 git commit -a -m $VER
-git push -f -u origin master
+# git push -f -u origin master
+git push 
 
 
